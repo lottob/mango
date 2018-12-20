@@ -1,0 +1,19 @@
+{
+    "name": "PelisMango",
+    "short_name": "PelisMango",
+    "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "https://4.bp.blogspot.com/-RcdTR4yS5Qw/XBsCiV-BDjI/AAAAAAAADtA/053TsRTsfPMGeIjHtheRCMHnFN7y8rGlQCK4BGAYYCw/s400/FaviconMango192x1920.png",
+            "type": "image/png"
+        },
+        {
+            "src": "favicon.png",
+            "sizes": "https://1.bp.blogspot.com/-NPJE03rkeKM/XBsCQDSfRdI/AAAAAAAADss/23gJsTWU3JUigG4Sf5EbbvDEyQ8jxL2TACK4BGAYYCw/s400/FaviconMango256x2560.png",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
