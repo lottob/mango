@@ -3,13 +3,13 @@
     "short_name": "PelisMango",
     "icons": [
         {
-            "src": "favicon.png",
-            "sizes": "https://4.bp.blogspot.com/-RcdTR4yS5Qw/XBsCiV-BDjI/AAAAAAAADtA/053TsRTsfPMGeIjHtheRCMHnFN7y8rGlQCK4BGAYYCw/s400/FaviconMango192x1920.png",
+            "src": "https://4.bp.blogspot.com/-RcdTR4yS5Qw/XBsCiV-BDjI/AAAAAAAADtA/053TsRTsfPMGeIjHtheRCMHnFN7y8rGlQCK4BGAYYCw/s400/FaviconMango192x1920.png",
+            "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "favicon.png",
-            "sizes": "https://1.bp.blogspot.com/-NPJE03rkeKM/XBsCQDSfRdI/AAAAAAAADss/23gJsTWU3JUigG4Sf5EbbvDEyQ8jxL2TACK4BGAYYCw/s400/FaviconMango256x2560.png",
+            "src": "https://1.bp.blogspot.com/-NPJE03rkeKM/XBsCQDSfRdI/AAAAAAAADss/23gJsTWU3JUigG4Sf5EbbvDEyQ8jxL2TACK4BGAYYCw/s400/FaviconMango256x2560.png",
+            "sizes": "256x256",
             "type": "image/png"
         }
     ],
